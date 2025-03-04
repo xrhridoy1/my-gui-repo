@@ -1,0 +1,20 @@
+h1{
+  color: gray;
+  background-color: bisque;
+  width: fit-content;
+  border-radius: 10px;
+  padding: 5px;
+  border: 1px solid gray;
+}
+p{
+  color: blueviolet;
+  background-color: beige;
+  width: fit-content;
+  padding: 5px;
+  margin:20px;
+  border-radius: 5px;
+  
+}
+body{
+  background-color: rgb(66, 3, 3);
+}
